@@ -1,4 +1,4 @@
-If this doesnt look right click: (https://github.com/DawidNieborak/portfolio.api.post-process-server/README.md)
+If this doesnt look right click: (https://github.com/DawidNieborak/portfolio.api.post-process-server/blob/master/README.md)
 <div id="top"></div>
 
 
